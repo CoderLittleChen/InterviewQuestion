@@ -1,0 +1,7 @@
+D:\GitHub\InterviewQuestion\InterviewQuestion\01.判断是否为素数\bin\Debug\01.判断是否为素数.exe.config
+D:\GitHub\InterviewQuestion\InterviewQuestion\01.判断是否为素数\bin\Debug\01.判断是否为素数.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\01.判断是否为素数\bin\Debug\01.判断是否为素数.pdb
+D:\GitHub\InterviewQuestion\InterviewQuestion\01.判断是否为素数\obj\Debug\01.判断是否为素数.csprojAssemblyReference.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\01.判断是否为素数\obj\Debug\01.判断是否为素数.csproj.CoreCompileInputs.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\01.判断是否为素数\obj\Debug\01.判断是否为素数.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\01.判断是否为素数\obj\Debug\01.判断是否为素数.pdb

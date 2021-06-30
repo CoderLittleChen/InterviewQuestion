@@ -1,0 +1,7 @@
+D:\GitHub\InterviewQuestion\InterviewQuestion\06.异步输出结果\bin\Debug\06.异步输出结果.exe.config
+D:\GitHub\InterviewQuestion\InterviewQuestion\06.异步输出结果\bin\Debug\06.异步输出结果.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\06.异步输出结果\bin\Debug\06.异步输出结果.pdb
+D:\GitHub\InterviewQuestion\InterviewQuestion\06.异步输出结果\obj\Debug\06.异步输出结果.csproj.CoreCompileInputs.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\06.异步输出结果\obj\Debug\06.异步输出结果.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\06.异步输出结果\obj\Debug\06.异步输出结果.pdb
+D:\GitHub\InterviewQuestion\InterviewQuestion\06.异步输出结果\obj\Debug\06.异步输出结果.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序1\bin\Debug\08.静态变量和静态构造函数的执行顺序1.exe.config
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序1\bin\Debug\08.静态变量和静态构造函数的执行顺序1.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序1\bin\Debug\08.静态变量和静态构造函数的执行顺序1.pdb
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序1\obj\Debug\08.静态变量和静态构造函数的执行顺序1.csprojAssemblyReference.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序1\obj\Debug\08.静态变量和静态构造函数的执行顺序1.csproj.CoreCompileInputs.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序1\obj\Debug\08.静态变量和静态构造函数的执行顺序1.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序1\obj\Debug\08.静态变量和静态构造函数的执行顺序1.pdb

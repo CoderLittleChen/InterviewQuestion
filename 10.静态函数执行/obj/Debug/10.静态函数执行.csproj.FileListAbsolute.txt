@@ -1,0 +1,7 @@
+D:\GitHub\InterviewQuestion\InterviewQuestion\10.静态函数执行\bin\Debug\10.静态函数执行.exe.config
+D:\GitHub\InterviewQuestion\InterviewQuestion\10.静态函数执行\bin\Debug\10.静态函数执行.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\10.静态函数执行\bin\Debug\10.静态函数执行.pdb
+D:\GitHub\InterviewQuestion\InterviewQuestion\10.静态函数执行\obj\Debug\10.静态函数执行.csprojAssemblyReference.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\10.静态函数执行\obj\Debug\10.静态函数执行.csproj.CoreCompileInputs.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\10.静态函数执行\obj\Debug\10.静态函数执行.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\10.静态函数执行\obj\Debug\10.静态函数执行.pdb

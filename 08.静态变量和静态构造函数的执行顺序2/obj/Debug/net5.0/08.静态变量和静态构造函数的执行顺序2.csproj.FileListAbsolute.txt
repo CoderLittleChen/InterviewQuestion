@@ -1,0 +1,16 @@
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\bin\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.exe
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\bin\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.deps.json
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\bin\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.runtimeconfig.json
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\bin\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.runtimeconfig.dev.json
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\bin\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.dll
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\bin\Debug\net5.0\ref\08.静态变量和静态构造函数的执行顺序2.dll
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\bin\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.pdb
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.csprojAssemblyReference.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.AssemblyInfoInputs.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.AssemblyInfo.cs
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.csproj.CoreCompileInputs.cache
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.dll
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\ref\08.静态变量和静态构造函数的执行顺序2.dll
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.pdb
+D:\GitHub\InterviewQuestion\InterviewQuestion\08.静态变量和静态构造函数的执行顺序2\obj\Debug\net5.0\08.静态变量和静态构造函数的执行顺序2.genruntimeconfig.cache
